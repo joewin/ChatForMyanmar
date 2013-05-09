@@ -11,7 +11,7 @@
     android:layout_width="fill_parent"
     android:layout_height="wrap_content"
     ads:adSize="BANNER"
-    ads:adUnitId="a15090f967d0722" />
+    ads:adUnitId="" />
 
 	<RelativeLayout
 		android:layout_width="fill_parent"
