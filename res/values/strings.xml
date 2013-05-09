@@ -2,7 +2,7 @@
 <resources>
 	<string name="app_name">Chat4MM</string>
 <!-- Admod -->
-     <string name="admob_id">a15090f967d0722</string>
+     <string name="admob_id"></string>
 	<!-- Connection state -->
 	<string name="conn_title">Chat4MM: %s</string>
 	<string name="conn_connecting">Connecting to server…</string>
