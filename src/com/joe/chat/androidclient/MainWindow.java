@@ -127,7 +127,7 @@ public class MainWindow extends SherlockExpandableListActivity {
 		actionBar.setSubtitle(mStatusMessage);
 		 //add ads
         LinearLayout layout = (LinearLayout)findViewById(R.id.mListLay);
-        String MY_AD_UNIT_ID="a15090f967d0722";
+        String MY_AD_UNIT_ID="";
         adView = new AdView(this, AdSize.BANNER, MY_AD_UNIT_ID);
         layout.addView(adView);
         adView.loadAd(new AdRequest());
