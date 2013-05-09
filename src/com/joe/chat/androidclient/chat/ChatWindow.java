@@ -125,7 +125,7 @@ public class ChatWindow extends SherlockListActivity implements OnKeyListener,
 		AdRequest re = new AdRequest();
 		re.setTesting(true);
 		adview.loadAd(re);
-	       // String MY_AD_UNIT_ID="a15090f967d0722";
+	       // String MY_AD_UNIT_ID="";
 	        //adView = new AdView(this, AdSize.BANNER, MY_AD_UNIT_ID);
 	        //layout.addView(adView);
 	        //adView.loadAd(new AdRequest());
